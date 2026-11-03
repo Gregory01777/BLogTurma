@@ -1,0 +1,5 @@
+C:\BlogTurma\obj\Debug\net9.0\BlogTurma.csproj.AssemblyReference.cache
+C:\BlogTurma\obj\Debug\net9.0\BlogTurma.GeneratedMSBuildEditorConfig.editorconfig
+C:\BlogTurma\obj\Debug\net9.0\BlogTurma.AssemblyInfoInputs.cache
+C:\BlogTurma\obj\Debug\net9.0\BlogTurma.AssemblyInfo.cs
+C:\BlogTurma\obj\Debug\net9.0\BlogTurma.csproj.CoreCompileInputs.cache
